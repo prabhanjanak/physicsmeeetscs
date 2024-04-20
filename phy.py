@@ -53,3 +53,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Adding the line
+st.write("Developed By Prabhanjan Bhat, Ideated By Preethi S A")
